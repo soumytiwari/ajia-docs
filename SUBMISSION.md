@@ -219,4 +219,3 @@ With another 2–4 hours, I would prioritize:
 I prioritized a complete document lifecycle and sharing workflow over breadth. The implemented slice supports creating, editing, saving, reopening, sharing, and editing shared documents with persistent database storage.
 
 File import, production authentication, real-time collaboration, and advanced editor features were intentionally deferred so the core workflow could be implemented and verified within the timebox.
-```
