@@ -149,7 +149,7 @@ Suggested review flow:
 Live URL:
 
 ```text
-PASTE_LIVE_DEPLOYMENT_URL_HERE
+[LIVE_DEPLOYMENT_URL](https://ajia-docs.onrender.com/)
 ```
 
 The project is currently configured for deployment through Vercel with Supabase as the PostgreSQL provider.
@@ -159,7 +159,7 @@ The project is currently configured for deployment through Vercel with Supabase 
 Video URL:
 
 ```text
-PASTE_UNLISTED_YOUTUBE_OR_LOOM_URL_HERE
+[YOUTUBE_URL](https://youtu.be/8ov4T1Djzzg)
 ```
 
 ## Architecture Summary
